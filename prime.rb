@@ -1,7 +1,7 @@
 require 'pry'
 def prime?(num)
   flag = true 
-for x == 0 
+for x in 2.. == 0 
   return false 
 else 
   return true 
