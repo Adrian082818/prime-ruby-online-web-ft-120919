@@ -1,6 +1,6 @@
 require 'pry'
-def prime?(integer)
-integer = 
+def prime?(number)
+if num
 puts prime
 end 
 end 
