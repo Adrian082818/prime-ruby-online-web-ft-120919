@@ -1,3 +1,3 @@
 require 'pry'
 def prime?(num)
-num = 
+num = (2..number)
