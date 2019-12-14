@@ -1,6 +1,7 @@
 require 'pry'
 def prime?(num)
-if num % 2 == 0 
+  flag = true 
+if num  == 0 
   return false 
 else 
   return true 
