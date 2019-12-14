@@ -1,6 +1,6 @@
 require 'pry'
 def prime?(integer)
-integer.
+integer = 
 puts prime
 end 
 end 
