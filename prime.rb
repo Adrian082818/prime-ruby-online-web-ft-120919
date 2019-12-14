@@ -1,6 +1,6 @@
 require 'pry'
 def prime?(integer)
-integer.each do |prime|
+integer.
 puts prime
 end 
 end 
